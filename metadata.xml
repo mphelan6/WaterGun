@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>WaterGun</name>
+    <directory>watergun</directory>
+    <id>835601170</id>
+    <description>This mod adds a new active item called &quot;Water Gun&quot; to the game.
+
+The item shoots a ton of peircing tears in the direction he is facing for about half a second.</description>
+    <version>1.5</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Active Items"/>
+</metadata>
