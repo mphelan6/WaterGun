@@ -3,9 +3,9 @@
     <name>WaterGun</name>
     <directory>watergun</directory>
     <id>835601170</id>
-    <description>This mod adds a new active item called &quot;Water Gun&quot; to the game.
+    <description>This mod adds a new active item called &quot;Water Gun&quot; to the game. The item shoots many peircing tears in the direction Isaac is facing for about half a second. It does not require Isaac to stop and the tears scale off of Isaac's damage.
 
-The item shoots a ton of peircing tears in the direction he is facing for about half a second.</description>
+This is currently setup to work with the Afterbirth+ itempool. It will work with just Rebirth, however it *may* cause &quot;Breakfast&quot; to spawn slightly more often (this is how the game handles loading in an item it can't find). It also may just work completely correct.</description>
     <version>1.5</version>
     <visibility>Public</visibility>
     <tag id="Lua"/>
